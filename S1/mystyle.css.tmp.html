@@ -1,0 +1,118 @@
+<style>
+body
+{
+    font-family: serif;
+    font-weight: 200;
+    margin:auto;
+    background: silver;
+}
+
+h1{
+    font-family: cursive;
+}
+
+.menu
+{
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    height: 100%;
+    position: fixed;
+}
+
+.menu ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #f1f1f1;
+    height: 100%;
+    position: fixed;
+}
+
+.menu li a
+{
+    width: 80%;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background 1s, color 1s, width 1s;
+}
+
+.menu li a.active
+{
+    background-color: HotPink;
+    color: white;
+    width: 120%;
+}
+
+.menu li a:hover:not(.active)
+{
+    background-color: #555;
+    color: white;
+    width: 120%;
+    transition: width 1s;
+}
+
+header.top
+{
+    margin-left: 20%;
+    margin-right: 10%;
+    padding: 5px;
+    height: 30px;
+}
+
+.singer_block
+{
+    width: 250px;
+    height: 500px;
+    float: left;
+    text-align: center;
+    margin: 40px;
+    margin-top: 10px;
+}
+
+.card
+{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border: 10px solid HotPink;
+    float: left;
+}
+
+.poto
+{
+    background-color: HotPink;
+    width: 100%;
+    padding: 20px;
+}
+
+.clear:after
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.page
+{
+    margin-left: 20%;
+    margin-right: 10%;
+    padding: 10px;
+}
+
+.block_fill
+{
+    width: 100%;
+    float: left;
+}
+
+.block_half
+{
+    width: 50px;
+    float: left;
+    background-color: white;
+}</style>
