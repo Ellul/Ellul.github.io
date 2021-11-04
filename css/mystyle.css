@@ -24,7 +24,7 @@ h1{
     list-style: none;
     margin: 0;
     padding: 0;
-    width: 150px;
+    width: 10%;
     background-color: silver;
     height: 100%;
     position: fixed;
@@ -118,7 +118,7 @@ header.top
 {
     text-decoration: none;
     color: black;
-    transition: color 1s;
+    transition: color 0.5s;
 }
 
 .link:hover
