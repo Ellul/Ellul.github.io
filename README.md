@@ -1,6 +1,6 @@
 # Ellul.github.io
 
-[Chinese][1]
+[Chinese][1]  
 [Japanese][2]
 
 [1]:https://ellul.github.io/html/CN/HOME.html
