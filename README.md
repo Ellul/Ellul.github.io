@@ -1,7 +1,7 @@
 # Ellul.github.io
 
-### Chinese[1]  
-### Japanese[2]
+### [Chinese][1]  
+### [Japanese][2]
 
-[1]:/html/CN/HOME.html
-[2]:/html/JP/HOME.html
+[1]: https://ellul.github.io/html/CN/HOME.html
+[2]: https://ellul.github.io/html/JP/tk1.html
