@@ -70,6 +70,9 @@ header.top
     text-align: center;
     margin: 15px;
     margin-top: 10px;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 8px;
 }
 
 .card
@@ -126,3 +129,14 @@ header.top
     color: HotPink;
 }
 
+button.feedback
+{
+    width: 100px;
+    height: 50px;
+    float: left;
+    background-color: hotpink;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
