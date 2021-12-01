@@ -140,3 +140,10 @@ button.feedback
     text-align: center;
     font-size: medium;
 }
+
+table, th, td
+{
+    border: medium solid black;
+    padding: 8px;
+    text-align: center;
+}
