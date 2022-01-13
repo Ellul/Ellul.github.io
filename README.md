@@ -1,4 +1,4 @@
-# Ellul.github.io
+# Greg.github.io
 
 ### [Chinese][1]  
 ### [Japanese][2]
